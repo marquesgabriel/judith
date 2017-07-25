@@ -1,0 +1,12 @@
+{
+  "name": "judith",
+  "version": "1.0.0",
+  "description": "Bot que detecta o telefone tocando para alertar os destinos",
+  "main": "index.js",
+  "repository": "github.com/marquesgabriel/judith",
+  "author": "marquesgabriel",
+  "license": "MIT",
+  "dependencies": {
+    "mic": "^2.1.1"
+  }
+}
